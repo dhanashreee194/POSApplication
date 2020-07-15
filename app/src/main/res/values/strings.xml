@@ -34,5 +34,27 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
+    <string name="product_name">Product Name</string>
+    <string name="product_pride">$222</string>
+    <string name="receipt">Receipt</string>
+    <string name="pay_now">Pay Now</string>
+    <string name="open_receipts">Open Receipts</string>
+    <string name="save_receipt">Save Receipt</string>
+    <string name="name_hint">Name</string>
+    <string name="comment_hint">Comments</string>
+    <string name="search">Search</string>
+    <string name="ticket">Ticket-3:45</string>
+    <string name="employee_name">Employee Name</string>
+    <string name="cashier_name">Cashier Name</string>
+    <string name="device_id">Device ID</string>
+    <string name="item_name">Item Name</string>
+    <string name="sous_total">Sous-total</string>
+    <string name="tps">TPS, 5%</string>
+    <string name="tvq">TVQ, 9.975</string>
+    <string name="total">Total</string>
+    <string name="payment_mode">Payment Mode</string>
+  
 </resources>
